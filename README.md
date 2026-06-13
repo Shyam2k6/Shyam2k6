@@ -18,29 +18,8 @@ I enjoy building user-friendly web applications with React, exploring the MERN s
 
 ## 🚀 Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,java,python,vscode,postman" />
 </p>
 
 ---
