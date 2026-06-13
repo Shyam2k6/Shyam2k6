@@ -1,6 +1,4 @@
-<h1 align="center">I'm Shyam</h1>
-
-<h3 align="center">Frontend Developer | React Enthusiast</h3>
+<h3 align="center">Shyam C B | Frontend Developer | React Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Shyam2k6">
@@ -12,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-A Computer Science Student from India 🇮🇳
+Computer Science student from India with a strong interest in Frontend Development.
 
-Passionate about creating user-friendly web applications, solving problems through code, and continuously learning new technologies. Currently exploring the MERN stack, improving problem-solving skills, and creating projects that solve real-world problems.
+I enjoy building user-friendly web applications with React, exploring the MERN stack, and improving my problem-solving skills through continuous learning and hands-on projects.
 
 ---
 
@@ -37,7 +35,7 @@ Passionate about creating user-friendly web applications, solving problems throu
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
 ### Tools
@@ -49,17 +47,20 @@ Passionate about creating user-friendly web applications, solving problems throu
 
 ## 📌 Featured Projects
 
-### 🎯 InterPrep
-Interview preparation platform with personalized roadmaps, progress tracking, and learning resources.
-
-### 🏡 WildwoodStay
-Accommodation booking application.
-
-### 🎒 Travel Packing List
-React application for managing and organizing travel items.
-
-### 🧠 React Quiz App
-Interactive quiz application built with React and state management concepts.
+<p align="center">
+  <a href="YOUR_REPO_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=WildwoodStay&theme=tokyonight" />
+  </a>
+  <a href="YOUR_REPO_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=react-quiz-app&theme=tokyonight" />
+  </a>
+    <a href="YOUR_REPO_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=gradify&theme=tokyonight" />
+  </a>
+  <a href="YOUR_REPO_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=dictionary&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -81,31 +82,18 @@ Interactive quiz application built with React and state management concepts.
 ---
 
 ## 🌱 Currently Learning
-
-- Advanced React
-- MERN Stack Development
-- Data Structures & Algorithms
-- System Design Fundamentals
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Secure a Frontend Developer Internship
-- ⚛️ Master React Ecosystem
-- 🌐 Build Production-Ready MERN Applications
-- 💼 Build an Impressive Developer Portfolio
+Advanced React • MERN Stack • Data Structures & Algorithms
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shyam-cb/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shyamboopathi2006@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -115,10 +103,6 @@ Interactive quiz application built with React and state management concepts.
 </p>
 
 ---
-
-<p align="center">
-  <i>"Consistency beats intensity when intensity is inconsistent."</i>
-</p>
 
 <p align="center">
   ⭐ If you like my work, consider following me!
