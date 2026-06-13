@@ -28,16 +28,16 @@ I enjoy building user-friendly web applications with React, exploring the MERN s
 
 <p align="center">
   <a href="https://github.com/Shyam2k6/wildwoodstay.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=WildwoodStay&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=wildwoodstay&theme=tokyonight&v=1" />
   </a>
   <a href="https://github.com/Shyam2k6/react-quiz-app.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=react-quiz-app&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=react-quiz-app&theme=tokyonight&v=1" />
   </a>
-    <a href="https://github.com/Shyam2k6/gradify.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=gradify&theme=tokyonight" />
+    <a href="https://github.com/Shyam2k6/Gradify.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=Gradify&theme=tokyonight&v=1" />
   </a>
   <a href="https://github.com/Shyam2k6/dictionary.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=dictionary&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=dictionary&theme=tokyonight&v=1" />
   </a>
 </p>
 
