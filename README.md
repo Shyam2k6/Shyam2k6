@@ -52,14 +52,14 @@ Passionate about creating user-friendly web applications, solving problems throu
 ### 🎯 InterPrep
 Interview preparation platform with personalized roadmaps, progress tracking, and learning resources.
 
-### 🚀 WildwoodStay
-An application for users to find and book accomodations
+### 🏡 WildwoodStay
+Accommodation booking application.
 
-### 📖 WordNest
-Dictionary application built using API integration and Async/Await.
+### 🎒 Travel Packing List
+React application for managing and organizing travel items.
 
-### 🎓 Gradify
-Student grading application built using JavaScript array methods.
+### 🧠 React Quiz App
+Interactive quiz application built with React and state management concepts.
 
 ---
 
