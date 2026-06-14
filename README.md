@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Shyam2k6">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;CSE+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;MERN+Stack+Learner;CSE+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student from India with a strong interest in Frontend Development.
+Computer Science student with strong interest in Frontend Development.
 
 I enjoy building user-friendly web applications with React, exploring the MERN stack, and improving my problem-solving skills through continuous learning and hands-on projects.
 
@@ -32,13 +32,6 @@ I enjoy building user-friendly web applications with React, exploring the MERN s
   </a>
   <a href="https://github.com/Shyam2k6/react-quiz-app.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=react-quiz-app&theme=tokyonight&v=1" />
-  </a>
-    <a href="https://github.com/Shyam2k6/Gradify.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=Gradify&theme=tokyonight&v=1" />
-  </a>
-  <a href="https://github.com/Shyam2k6/dictionary.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=dictionary&theme=tokyonight&v=1" />
-  </a>
 </p>
 
 ---
@@ -46,8 +39,9 @@ I enjoy building user-friendly web applications with React, exploring the MERN s
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shyam2k6&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam2k6&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam2k6&theme=tokyo-night&hide_border=true" />
+
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam2k6&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
