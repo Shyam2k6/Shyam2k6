@@ -38,18 +38,18 @@ I enjoy building user-friendly web applications with React, exploring the MERN s
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam2k6&theme=tokyo-night&hide_border=true" />
-
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam2k6&layout=compact&theme=tokyonight&hide_border=true" />
+<p >
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam2k6&theme=tokyo-night&hide_border=true&v=1" />
+  <br> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam2k6&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shyam2k6&theme=tokyonight&hide_border=true" />
+<p >
+  <img src="https://streak-stats.demolab.com?user=Shyam2k6&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 ---
