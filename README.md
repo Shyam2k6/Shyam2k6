@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student with strong interest in Frontend Development.
+Computer Science student with strong interest in MERN Stack Development.
 
 I enjoy building user-friendly web applications with React, exploring the MERN stack, and improving my problem-solving skills through continuous learning and hands-on projects.
 
