@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Computer Science student with strong interest in MERN Stack Development.
 
@@ -16,19 +16,19 @@ I enjoy building user-friendly web applications with React, exploring the MERN s
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,java,python,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,nodejs,express,mongodb,git,github,java,python,vscode,postman" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/Shyam2k6/wildwoodstay.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=wildwoodstay&theme=tokyonight&v=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=wildwoodstay&theme=tokyonight&v=2" />
   </a>
   <a href="https://github.com/Shyam2k6/react-quiz-app.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyam2k6&repo=react-quiz-app&theme=tokyonight&v=1" />
@@ -43,7 +43,7 @@ I enjoy building user-friendly web applications with React, exploring the MERN s
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p >
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam2k6&theme=tokyo-night&hide_border=true&v=1" />
@@ -53,7 +53,7 @@ I enjoy building user-friendly web applications with React, exploring the MERN s
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p >
   <img src="https://streak-stats.demolab.com?user=Shyam2k6&theme=tokyonight&hide_border=true&v=1" />
@@ -61,12 +61,12 @@ I enjoy building user-friendly web applications with React, exploring the MERN s
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 Advanced React • MERN Stack • Data Structures & Algorithms
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shyam-cb/">
